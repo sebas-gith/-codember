@@ -25,6 +25,6 @@ Here are my solutions to the [codember](https://codember.dev/) 2023 edition.
 
 | Secret | Solution |
 | --- | --- |
-| #1 | imagen del creador de nextjs |
+| #1 | imagen del jefe de goncy|
 | #2 | revisa tu mail |
 | #3 | konami code |
