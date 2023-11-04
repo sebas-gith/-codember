@@ -13,7 +13,7 @@
 
 ```
 
-Here are my solutions to the [codember](https://codember.dev/) 202e edition.
+Here are my solutions to the [codember](https://codember.dev/) 2023 edition.
 
 ## Challenges
 
