@@ -1,7 +1,7 @@
 # 👨‍💻 codember.dev - 2023 Edition
 
 ```bash
-                  __                             __                         __
+                  __                         __                         __
                  /\ \                       /\ \
   ___     ___    \_\ \      __     ___ ___  \ \ \____     __    _ __
  /'___\  / __`\  /'_` \   /'__`\ /' __` __`\ \ \ '__`\  /'__`\ /\`'__\
@@ -20,3 +20,11 @@ Here are my solutions to the [codember](https://codember.dev/) 2023 edition.
 | Challenge | Solution |
 | --- | --- |
 | #1 | [A spy is sending encrypted messages.](/CHALLENGE_01/) |
+
+## Secrets
+
+| Secret | Solution |
+| --- | --- |
+| #1 | imagen del creador de nextjs |
+| #2 | revisa tu mail |
+| #3 | konami code |
