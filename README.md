@@ -18,7 +18,7 @@ Here are my solutions to the [codember](https://codember.dev/) 2023 edition.
 ## Challenges
 
 | Challenge | Solution |
-| --- | --- |😓No lo encontre(aun) 
+| --- | --- |
 | #1 | [A spy is sending encrypted messages.](/CHALLENGE_01/) |
 | #2 | [Mini Compiler Challenge.](/CHALLENGE_02/) |
 
