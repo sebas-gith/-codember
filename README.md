@@ -18,7 +18,7 @@ Here are my solutions to the [codember](https://codember.dev/) 2023 edition.
 ## Challenges
 
 | Challenge | Solution |
-| --- | --- |
+| --- | --- |😓No lo encontre(aun) 
 | #1 | [A spy is sending encrypted messages.](/CHALLENGE_01/) |
 | #2 | [Mini Compiler Challenge.](/CHALLENGE_02/) |
 
@@ -31,5 +31,5 @@ Here are my solutions to the [codember](https://codember.dev/) 2023 edition.
 | #3 | Konami code |
 | #4 | El changelog lo dice todo |
 | #5 | Revisa tu mail |
-| #6 | 😓No lo encontre(aun) |
+| #6 | La persona más molesta del mundo (confetti)|
 
