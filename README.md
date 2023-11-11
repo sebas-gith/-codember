@@ -20,11 +20,16 @@ Here are my solutions to the [codember](https://codember.dev/) 2023 edition.
 | Challenge | Solution |
 | --- | --- |
 | #1 | [A spy is sending encrypted messages.](/CHALLENGE_01/) |
+| #2 | [Mini Compiler Challenge.](/CHALLENGE_02/) |
 
 ## Secrets
 
 | Secret | Solution |
 | --- | --- |
-| #1 | imagen del jefe de goncy|
-| #2 | revisa tu mail |
-| #3 | konami code |
+| #1 | Imagen del jefe de goncy|
+| #2 | Revisa tu mail |
+| #3 | Konami code |
+| #4 | El changelog lo dice todo |
+| #5 | Revisa tu mail |
+| #6 | 😓No lo encontre(aun) |
+
