@@ -23,6 +23,8 @@ Here are my solutions to the [codember](https://codember.dev/) 2023 edition.
 | #2 | [Mini Compiler Challenge.](/CHALLENGE_02/) |
 | #3 | [El Desafío del Cifrado Espía.](/CHALLENGE_03/) |
 | #4 | [Hackers dañan sistema de archivos.](/CHALLENGE_04/) |
+| #5 | [El problema final.](/CHALLENGE_05/) |
+
 ## Secrets
 
 | Secret | Solution |
@@ -37,3 +39,6 @@ Here are my solutions to the [codember](https://codember.dev/) 2023 edition.
 | #8 | Revisa tu email, completa el desafio 03 abre la carpeta private con la contraseña |
 | #9 | En la carpeta private. Apellido de una persona CEO de una compania de Inteligencia Artificial creadora de chatgpt |
 | #10 | cowsay |
+| #11 | npm intall adventjs |
+| #12 | Lee el corrego del mail 5 (submit bug) |
+| #13 | play Tetris|
